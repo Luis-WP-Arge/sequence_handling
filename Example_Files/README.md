@@ -1,6 +1,12 @@
 # Example Files
 
 Below are some toy examples of input files to some of the handlers.
+GATK allows parallel processes which the needed files are in specific file extensions:
+    .intervals
+    .interval_list
+    .list
+    .bed
+    .picard
 
 ---
 
